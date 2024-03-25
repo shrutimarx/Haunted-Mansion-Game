@@ -33,4 +33,4 @@ The project consists of several Java files representing different aspects of the
 1. Make sure you have Java installed on your system.
 2. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/scooby-doo-haunted-mansion.git
+https://github.com/your-username/scooby-doo-haunted-mansion.git
