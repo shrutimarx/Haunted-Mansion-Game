@@ -8,8 +8,6 @@ This project implements a text-based command-line adventure game based on Scooby
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
